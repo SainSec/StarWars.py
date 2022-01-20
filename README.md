@@ -1,4 +1,4 @@
-# Why i made this Game
+# Intro
 Well i'm a die hard fan of Star Wars, and i really like programming in python, so i made a game for that! Hope u guys like it! 
 
 # StarWars.py
