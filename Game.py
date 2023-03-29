@@ -6,7 +6,7 @@ import random
 
 window = turtle.Screen()
 window.setup(width=600, height=600)
-window.title("Star Wars Game by Darth Lotia")
+window.title("Star Wars Game by Darth Sain")
 window.bgcolor("black")
 
 window.tracer(0)
