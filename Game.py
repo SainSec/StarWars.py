@@ -171,4 +171,3 @@ while True:
         break
 
 window.mainloop()
-#This Game is build by Darth Lotia
